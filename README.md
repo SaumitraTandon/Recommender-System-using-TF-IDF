@@ -94,8 +94,3 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 - [TMDB 5000 Movies Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) from Kaggle.
 - [Scikit-learn](https://scikit-learn.org/stable/) for providing the tools for TF-IDF vectorization.
-
----
-
-Feel free to modify any section as per your project specifics.
-```
